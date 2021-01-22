@@ -1,11 +1,11 @@
 ### Hello World. Thank you for visiting my page!
 
-[![](https://raw.githubusercontent.com/mercury-pluto1210/mercury-pluto1210/main/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/mercury-pluto1210/mercury-pluto1210/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mercury-pluto1210&show_icons=true&bg_color=nord_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://raw.githubusercontent.com/mercury-pluto1210/mercury-pluto1210/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://komarev.com/ghpvc/?username=mercury-pluto1210&color=green)
+![](https://komarev.com/ghpvc/?username=mercury-pluto1210&color=grey)
 
 <!--
 **mercury-pluto1210/mercury-pluto1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
