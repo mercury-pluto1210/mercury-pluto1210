@@ -25,16 +25,6 @@
 
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/mercury-pluto1210/mercury-pluto1210/main/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
