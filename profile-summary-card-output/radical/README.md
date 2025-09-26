@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/mercury-pluto1210/mercury-pluto1210/main/profile-summary-card-output/radical/4-productive-time.svg)
+```
+
+    
